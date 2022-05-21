@@ -7,7 +7,7 @@
    viewBox="0 0 420 594"
    version="1.1"
    id="svg5"
-   inkscape:export-filename="F:\work\FootballPoster\Inkscape\Football\20210424mae\20210424mae2.png"
+   inkscape:export-filename="F:\work\FootballPoster\Inkscape\Football\20210424mae\20210424mae1.png"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.82982955"
-     inkscape:cx="792.93392"
-     inkscape:cy="916.45326"
+     inkscape:cx="791.72886"
+     inkscape:cy="1109.2639"
      inkscape:window-width="3840"
      inkscape:window-height="2081"
      inkscape:window-x="-9"
@@ -39,18 +39,6 @@
      showguides="false" />
   <defs
      id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient9203">
-      <stop
-         style="stop-color:#00205b;stop-opacity:1;"
-         offset="0"
-         id="stop9199" />
-      <stop
-         style="stop-color:#000000;stop-opacity:1"
-         offset="1"
-         id="stop9201" />
-    </linearGradient>
     <rect
        x="70.720026"
        y="50.146928"
@@ -83,17 +71,6 @@
          id="path5184"
          sodipodi:nodetypes="cssssssssssscscsccsssssscssssssssssssssscssssssscssssssssssssssscssssssccscsssscsssssssssscc" />
     </clipPath>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9203"
-       id="radialGradient9205"
-       cx="98.72464"
-       cy="362.19653"
-       fx="98.72464"
-       fy="362.19653"
-       r="213"
-       gradientTransform="matrix(1.1466402,1.0853723,-1.818492,1.9211437,644.17451,-414.15846)"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Base"
@@ -101,7 +78,7 @@
      id="layer1"
      style="display:inline">
     <rect
-       style="fill:url(#radialGradient9205);fill-opacity:1;stroke-width:0.581675"
+       style="fill:#00205b;fill-opacity:1;stroke-width:0.581675"
        id="rect19598"
        width="426"
        height="600"
@@ -375,6 +352,6 @@
        x="54.980709"
        y="202.89383"
        clip-path="url(#clipPath5182)"
-       transform="matrix(0.69745433,0,0,0.69745433,205.60448,328.01174)" />
+       transform="matrix(0.87273902,0,0,0.87273902,164.25804,264.92451)" />
   </g>
 </svg>
